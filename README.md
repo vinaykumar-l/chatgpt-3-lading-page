@@ -4,10 +4,6 @@
 
 Welcome to the ChatGPT-3 Landing Page repository! This project aims to showcase the capabilities and functionalities of OpenAI's GPT-3.5-based language model, known as ChatGPT-3. The landing page is built using React, providing a user-friendly interface to interact with ChatGPT-3 and experience its natural language processing powers.
 
-## Demo
-
-A live demo of the ChatGPT-3 Landing Page is available at [https://your-demo-url.com](https://your-demo-url.com).
-
 ## Features
 
 - **Interactive Chat Interface:** Users can easily engage in natural language conversations with ChatGPT-3.
