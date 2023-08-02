@@ -1,6 +1,6 @@
 # ChatGPT-3 Landing Page
 
-![ChatGPT-3 Landing Page](C:\Users\vinay\Downloads\chatgpt3-landing-page.png)
+![ChatGPT-3 Landing Page](./src//assets/assets/chatgpt3-landing-page.png)
 
 Welcome to the ChatGPT-3 Landing Page repository! This project aims to showcase the capabilities and functionalities of OpenAI's GPT-3.5-based language model, known as ChatGPT-3. The landing page is built using React, providing a user-friendly interface to interact with ChatGPT-3 and experience its natural language processing powers.
 
@@ -18,7 +18,7 @@ To run this landing page locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/ChatGPT3-Landing-Page.git
+git clone https://github.com/vinaykumar-l/ChatGPT3-Landing-Page.git
 ```
 
 2. Navigate to the project directory:
